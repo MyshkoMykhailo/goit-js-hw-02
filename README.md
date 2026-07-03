@@ -1,2 +1,3 @@
 # goit-js-hw-02
-My 2nd homework at js goit 2026
+
+my 2nd js hw in 2026 goit
